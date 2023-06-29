@@ -1,0 +1,25 @@
+body {
+    background: #efefef;
+}
+
+.menu {
+    display: flex;
+    margin: 5px 10px;
+}
+
+.menu li {
+    margin: 0 15px;
+}
+
+.wrap {
+    max-width: 600px;
+    margin: auto;
+    background-color: #ffffff;
+
+}
+
+
+.card img {
+    width: 200px;
+
+}
